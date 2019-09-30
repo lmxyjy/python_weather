@@ -1,0 +1,7 @@
+接口地址:https://api.data.gov.sg/v1/environment/24-hour-weather-forecast
+
+城市数据:Locations: 1) Sentosa, 2) Pulau Ubin 3) Pulau Tekong 4) Jurong Island 5) Tuas 6) Changi 7) City 8) Woodlands 9) Lim Chu Kang 10) Central Water Catchment 11) Bukit Timah 12) Punggol 13) Tanglin 14) Novena 15) Marine Parade 16) Tampines 17) Jurong East 18) Paya Lebar 19) Queenstown 20) Kallang
+
+请求格式:/weather?city=Singapore&locations=Pulau_Ubin&info=weather/temp_high/temp_low/humi_high/humi_low/winds_max/winds_min
+
+上线后的访问地址:http://api.dfrobot.top/weather?city=Singapore&locations=Pulau_Ubin&info=weather/temp_high/temp_low/humi_high/humi_low/winds_max/winds_min

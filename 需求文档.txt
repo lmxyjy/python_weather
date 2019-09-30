@@ -1,0 +1,4 @@
+1,从接口得到数据，然后返回用户发送给你的get请求想要请求到的数据。
+2,接口如下:https://api.data.gov.sg/v1/environment/24-hour-weather-forecast
+3,用户请求的数据格式如下：[你的接口布置的地址]/weather?city=Singapore&locations=Pulau_Ubin&info=weather/temp_high/temp_low/humi_high/humi_low/winds_max/winds_min
+4,调试工具:postman(一款接口测试工具,可以是测试是否实现了需求)
